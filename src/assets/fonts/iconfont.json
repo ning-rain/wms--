@@ -1,0 +1,65 @@
+{
+  "id": "3637134",
+  "name": "wms",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1260",
+      "name": "好友",
+      "font_class": "haoyou",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "1391423",
+      "name": "计算机",
+      "font_class": "36",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "5703277",
+      "name": "上传",
+      "font_class": "zhongguohangtiantubiaoheji-weizhuanlunkuo-",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "5961297",
+      "name": "查询",
+      "font_class": "chaxun",
+      "unicode": "ec4c",
+      "unicode_decimal": 60492
+    },
+    {
+      "icon_id": "6834851",
+      "name": "文件-撤回文件",
+      "font_class": "wj-chwj",
+      "unicode": "e76f",
+      "unicode_decimal": 59247
+    },
+    {
+      "icon_id": "6834856",
+      "name": "文件-发送文件",
+      "font_class": "wj-fswj",
+      "unicode": "e770",
+      "unicode_decimal": 59248
+    },
+    {
+      "icon_id": "7542743",
+      "name": "24gf-cartFull4",
+      "font_class": "24gf-cartFull4",
+      "unicode": "e882",
+      "unicode_decimal": 59522
+    },
+    {
+      "icon_id": "15686536",
+      "name": "货车",
+      "font_class": "huoche",
+      "unicode": "e6c3",
+      "unicode_decimal": 59075
+    }
+  ]
+}
